@@ -1,3 +1,4 @@
+<h1 align="center">Hi 👋, I'm Nguyễn Thanh Thuận</h1>
 
 ## 🌐Socials
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ngth_thunj) 
